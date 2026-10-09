@@ -1,7 +1,7 @@
 <?php
 require_once 'validatornama.php';
 
-// Masukkan data uji sesuai soal (Ganti "Bayu" dengan nama lengkap Anda)
+// Masukkan data uji sesuai soal (Ganti "Aldo" dengan nama lengkap Anda)
 $testCases = [
     "Nama Lengkap" => "Aldo", 
     "Dengan Angka" => "1212",
